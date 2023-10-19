@@ -8,3 +8,14 @@ API utilizando [FastAPI](https://fastapi.tiangolo.com/), conectada a um banco de
 [Redoc](/redoc)
 
 [Tutorial - Youtube](https://www.youtube.com/watch?v=1CZZAhwqyco)
+
+
+ENVs
+---------------
+
+PG_PASS
+PG_USER
+PG_DB
+DATABASE_URL
+DATABASE_URL_SYNC
+PYTHONPATH
