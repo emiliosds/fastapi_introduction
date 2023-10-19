@@ -13,9 +13,9 @@ API utilizando [FastAPI](https://fastapi.tiangolo.com/), conectada a um banco de
 ENVs
 ---------------
 
-PG_PASS
-PG_USER
-PG_DB
-DATABASE_URL
-DATABASE_URL_SYNC
-PYTHONPATH
+PG_PASS\
+PG_USER\
+PG_DB\
+DATABASE_URL\
+DATABASE_URL_SYNC\
+PYTHONPATH\
